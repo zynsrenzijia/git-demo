@@ -10,6 +10,6 @@ hello wjz! hello git!
 hello wjz! hello git!
 hello wjz! hello git!
 hello wjz! hello git!
-hello wjz! hello git!
+hello wjz! hello git! master test
 hello wjz! hello git!
 hello wjz! hello git!
