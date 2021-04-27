@@ -1,4 +1,4 @@
-hello wjz! hello git! 2222
+hello wjz! hello git! 2222 i am hot-fix yo!
 hello wjz! hello git! 333
 hello wjz! hello git!
 hello wjz! hello git!
@@ -13,3 +13,5 @@ hello wjz! hello git!
 hello wjz! hello git! 
 hello wjz! hello git!
 hello wjz! hello git! i am master yo!
+hello wjz! hello git!
+hello wjz! hello git! 
